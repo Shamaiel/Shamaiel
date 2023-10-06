@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamaiel" alt="shamaiel" /></a> </p>
 
 - 💬 Ask me about **React, Javascript**
-- 👨‍💻 All of my projects are available at **<a src="https://shamaiel.github.io>my Portfolio<a/>**
+- 👨‍💻 All of my projects are available at **https://shamaiel.github.io**
 
 - 📫 How to reach me **mswani258@gmail.com**
 
