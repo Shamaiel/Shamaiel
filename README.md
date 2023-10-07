@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Kashmir🍁, India</h3>
 
 <a  href="#"> <h1>About Me <h1/> </a>
-<h3> Hi 👋, I'm Mohd Shamaiel Wani </h3>
+<p> Hi 👋, I'm Mohd Shamaiel Wani </p>
 
 <img src="https://camo.githubusercontent.com/ec4a68367aa02e4a7437dc2cd3b619a7ec50be09f6152f182f4123b6a4f012d5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966" />
 
