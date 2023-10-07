@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Kashmir🍁, India</h3>
 
 <a  href="#"> <h1>About Me <h1/> </a>
-Hi 👋, I'm Mohd Shamaiel Wani
+<h3>Hi 👋, I'm Mohd Shamaiel Wani </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamaiel&label=Profile%20views&color=0e75b6&style=flat" alt="shamaiel" /> </p>
 
