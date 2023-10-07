@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohd Shamaiel Wani</h1>
-<h3 align="center">A passionate frontend developer from India,Kashmir</h3>
+<h1 align="center">Hi 👋, I'm Mohd Shamaiel Wani </h1>
+
+<h3 align="center">A passionate frontend developer from India, Kashmir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamaiel&label=Profile%20views&color=0e75b6&style=flat" alt="shamaiel" /> </p>
 
@@ -7,6 +8,7 @@
 
 - 💬 Ask me about **React, Javascript**
 - 👨‍💻 All of my projects are available at <a href="https://shamaiel.github.io">My Portfolio </a>
+   **https://shamaiel.github.io**
 
 - 📫 How to reach me **mswani258@gmail.com**
 
