@@ -1,48 +1,34 @@
-![258023483-746212b4-febe-4383-bf43-a42368c811f9](https://github.com/karnking/karnking/assets/68837552/4ff069dd-5c5c-4a58-98de-5207fd6c235e)
+<h1 align="center">Hi 👋, I'm Mohd Shamaiel Wani </h1>
 
-# **<p align="center">Hello <devlopers/>!👋, I'm Mohd Shamaiel Wani</p>**
-**A passionate full-stack web developer from Kashmir🍁, India with a passion for coding and 1500+ hours of coding experience. I believe that teamwork makes dream work and working every day to better interpersonal skills. Looking for a challenging SDE role in a growth-oriented organization!**
+<h3 align="center">A passionate frontend developer from Kashmir🍁, India</h3>
 
-![](https://komarev.com/ghpvc/?username=shamaiel&label=Profile%20views&color=0e75b6&style=flat)
+<a  href="#"> <h1>About Me <h1/> </a>
+<p> Hi 👋, I'm Mohd Shamaiel Wani </p>
+
+<img src="https://camo.githubusercontent.com/ec4a68367aa02e4a7437dc2cd3b619a7ec50be09f6152f182f4123b6a4f012d5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966" />
 
 
-🌱 I’m looking for Opportunities and am working on Personal Development
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamaiel&label=Profile%20views&color=0e75b6&style=flat" alt="shamaiel" /> </p>
 
-👨‍💻 All of my projects are available at https://shamaiel.github.io/
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamaiel" alt="shamaiel" /></a> </p>
 
-💬 Ask me about React, Redux, Javascript, Nodejs, HTML, CSS Or life
+- 💬 Ask me about **React, Javascript**
+- 👨‍💻 All of my projects are available at <a href="https://shamaiel.github.io">My Portfolio </a>
+ 
 
- :heart: Believe in "People don’t care about what you say, they care about what you build" – Mark Zuckerberg
+- 📫 How to reach me **mswani258@gmail.com**
 
-🧩Languages, Libraries & Frameworks:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,tailwind,python,java,git" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/m-s-wani-1517981ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-s-wani-1517981ba" height="30" width="40" /></a>
+<a href="https://instagram.com/m_s__wani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_s__wani" height="30" width="40" /></a>
 </p>
 
-## Contact Me at 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<table>
-  <tr>
-   <td>📫 Mail at</td>
-   <td>mswani258@gmail.com</td>
-   </tr>
-  <tr>
-    <td valign="end"><a target="_blank" href="https://linkedin.com/in/m-s-wani-1517981ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
-    <td valign="center">https://linkedin.com/in/m-s-wani-1517981ba</td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamaiel&show_icons=true&locale=en&layout=compact" alt="shamaiel" /></p>
 
-## 📊 **GitHub Stats**:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamaiel&show_icons=true&locale=en" alt="shamaiel" /></p>
 
-<div align="center">
-
-![shamaiel's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=shamaiel&show_icons=true&locale=en&layout=compact)
-
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/shamaiel)
-
-  
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamaiel&show_icons=true&theme=radical)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamaiel&" alt="shamaiel" /></p>
