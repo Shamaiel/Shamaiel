@@ -1,16 +1,16 @@
 ![258023483-746212b4-febe-4383-bf43-a42368c811f9](https://github.com/karnking/karnking/assets/68837552/4ff069dd-5c5c-4a58-98de-5207fd6c235e)
 
-# **<p align="center">Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋, I'm Karan Kotai</p>**
-**An aspiring and self-motivated full-stack web developer with a passion for coding and 1500+ hours of coding experience. I believe that teamwork makes dream work and working every day to better interpersonal skills. Looking for a challenging SDE role in a growth-oriented organization!**
+# **<p align="center">Hello <devlopers/>!👋, I'm Mohd Shamaiel Wani</p>**
+**A passionate full-stack web developer from Kashmir🍁, India with a passion for coding and 1500+ hours of coding experience. I believe that teamwork makes dream work and working every day to better interpersonal skills. Looking for a challenging SDE role in a growth-oriented organization!**
 
-![](https://komarev.com/ghpvc/?username=karnking)
+![](https://komarev.com/ghpvc/?username=shamaiel&label=Profile%20views&color=0e75b6&style=flat)
 
 
 🌱 I’m looking for Opportunities and am working on Personal Development
 
-👨‍💻 All of my projects are available at https://karnking.github.io/
+👨‍💻 All of my projects are available at https://shamaiel.github.io/
 
-💬 Ask me about React, Redux, Next.js, TypeScript, Javascript, HTML, CSS Or life
+💬 Ask me about React, Redux, Javascript, Nodejs, HTML, CSS Or life
 
  :heart: Believe in "People don’t care about what you say, they care about what you build" – Mark Zuckerberg
 
@@ -26,7 +26,7 @@
 <table>
   <tr>
    <td>📫 Mail at</td>
-   <td>karankotai9183@gmail.com</td>
+   <td>mswani258@gmail.com</td>
    </tr>
   <tr>
     <td valign="end"><a target="_blank" href="https://www.linkedin.com/in/karan-kotai-1a79a9270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
