@@ -17,7 +17,7 @@
 🧩Languages, Libraries & Frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,nextjs,typescript,tailwind,python,java,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,tailwind,python,java,git" />
   </a>
 </p>
 
@@ -29,8 +29,8 @@
    <td>mswani258@gmail.com</td>
    </tr>
   <tr>
-    <td valign="end"><a target="_blank" href="https://www.linkedin.com/in/karan-kotai-1a79a9270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
-    <td valign="center">https://www.linkedin.com/in/karan-kotai-1a79a9270</td>
+    <td valign="end"><a target="_blank" href="https://linkedin.com/in/m-s-wani-1517981ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+    <td valign="center">https://linkedin.com/in/m-s-wani-1517981ba</td>
   </tr>
 </table>
 
