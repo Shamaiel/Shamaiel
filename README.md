@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![Karan's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shamaiel&layout=pie&theme=dark)
+![Karan's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=shamaiel&show_icons=true&locale=en&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shamaiel&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
   
