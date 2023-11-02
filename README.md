@@ -8,7 +8,7 @@
 
 🌱 I’m looking for Opportunities and am working on Personal Development
 
-👨‍💻 All of my projects are available at [My Portfolio](shamaiel.github.io)
+👨‍💻 All of my projects are available at [My Portfolio](https://shamaiel.github.io/)
 
 💬 Ask me about React, Redux, Javascript, Nodejs, HTML, CSS Or life
 
