@@ -1,4 +1,4 @@
-![258023483-746212b4-febe-4383-bf43-a42368c811f9](https://github.com/karnking/karnking/assets/68837552/4ff069dd-5c5c-4a58-98de-5207fd6c235e)
+![258023483-746212b4-febe-4383-bf43-a42368c811f9](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1698899287~exp=1698899887~hmac=8f6c16bffc0351c4a3aff0766f3511403c7b61df1d43886dc16a1368a5594b22)
 
 # **<p align="center">Hello <devlopers/>!👋, I'm Mohd Shamaiel Wani</p>**
 **A passionate full-stack web developer from Kashmir🍁, India with a passion for coding and 1500+ hours of coding experience. I believe that teamwork makes dream work and working every day to better interpersonal skills. Looking for a challenging SDE role in a growth-oriented organization!**
