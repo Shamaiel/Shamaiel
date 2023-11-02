@@ -1,7 +1,9 @@
 # **<p align="center">Hello <devlopers/>!👋, I'm Mohd Shamaiel Wani</p>**
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1698899287~exp=1698899887~hmac=8f6c16bffc0351c4a3aff0766f3511403c7b61df1d43886dc16a1368a5594b22" alt="Centered Image" style="margin-left: 20px;">
+  <img src="https://i.gifer.com/bJk.gif" alt="Centered Image" style="margin-left: 20px;">
 </p>
+
+
 
 **A passionate full-stack web developer from Kashmir🍁, India with a passion for coding and 1500+ hours of coding experience. I believe that teamwork makes dream work and working every day to better interpersonal skills. Looking for a challenging SDE role in a growth-oriented organization!**
 
