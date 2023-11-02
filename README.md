@@ -3,6 +3,8 @@
   <img src="https://i.gifer.com/bJk.gif" alt="Centered Image" style="margin-left: 20px;">
 </p>
 
+<img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+
 
 
 **A passionate full-stack web developer from Kashmir🍁, India with a passion for coding and 1500+ hours of coding experience. I believe that teamwork makes dream work and working every day to better interpersonal skills. Looking for a challenging SDE role in a growth-oriented organization!**
